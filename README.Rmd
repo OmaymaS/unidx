@@ -1,0 +1,20 @@
+---
+output:
+  github_document:
+    toc: FALSE
+---
+
+## unidx
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, eval = FALSE)
+```
+
+A data package including data about Human Development Index and Corruption Perception Index.
+
+### Installation
+```{r}
+devtools::install_github("OmaymaS/unidx")
+```
+
+### Usage
