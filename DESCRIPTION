@@ -1,9 +1,9 @@
 Package: unidx
 Title: Data package for several UN indecies
 Version: 0.0.0.9000
-Authors@R: person('Omayma', 'Said', email = '', role = c('cre', 'aut')
+Author: OmaymaS
 Description: Datasets about Human Development Index and Corruption Perception Index
-License: 
+License: CC0
 LazyData: true
 URL: https://github.com/OmaymaS/unidx
 BugReports: https://github.com/OmaymaS/unidx/issues
