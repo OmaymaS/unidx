@@ -2,16 +2,16 @@
 #'
 #' A dataframe combining Human Development Index by UNDP and Corruption Perception Index from Transparency International for 121 countries.
 #'
-#' @format  The main dataframe `hdi_cpi_2015` has 121 rows and 10 variables:
+#' @format  The dataframe `hdi_cpi_2015` has 121 rows and 10 variables:
 
 #' - **country**: factor with 121 levels
 #' - **country_code**: factor
 #' - **region**: factor with 6 levels
 #' - **continent**: factor with 5 levels
 #' - **population**: country population in 2015
-#' - **corruption_perception_index**:  lower values reflect higher perceived corruption
+#' - **corruption_perception_index**:  measured index with lower values reflecting higher perceived corruption
 #' - **cpi_rank**:  country rank according to corruption perception index
-#' - **human_development_index**:  lower values reflect lowerdevelopment
+#' - **human_development_index**:  measured index with lower values reflecting lower development
 #' - **hdi_rank**:  country rank according to human development index
 #' - **year**:  year 2015
 #'

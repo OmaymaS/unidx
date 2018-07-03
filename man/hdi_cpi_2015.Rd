@@ -4,16 +4,16 @@
 \name{hdi_cpi_2015}
 \alias{hdi_cpi_2015}
 \title{hdi_cpi_2015}
-\format{The main dataframe \code{hdi_cpi_2015} has 121 rows and 10 variables:
+\format{The dataframe \code{hdi_cpi_2015} has 121 rows and 10 variables:
 \itemize{
 \item \strong{country}: factor with 121 levels
 \item \strong{country_code}: factor
 \item \strong{region}: factor with 6 levels
 \item \strong{continent}: factor with 5 levels
 \item \strong{population}: country population in 2015
-\item \strong{corruption_perception_index}:  lower values reflect higher perceived corruption
+\item \strong{corruption_perception_index}:  measured index with lower values reflecting higher perceived corruption
 \item \strong{cpi_rank}:  country rank according to corruption perception index
-\item \strong{human_development_index}:  lower values reflect lowerdevelopment
+\item \strong{human_development_index}:  measured index with lower values reflecting lower development
 \item \strong{hdi_rank}:  country rank according to human development index
 \item \strong{year}:  year 2015
 }}
