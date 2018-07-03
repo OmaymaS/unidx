@@ -1,5 +1,6 @@
 #' hdi
-#' Human Development Index data by UNDP for 188 country from 1990 to 2015.
+#'
+#' Human Development Index data by the United Nations Development Program(UNDP) for 188 country from 1990 to 2015.
 #'
 #' @format The dataframe `hdi` has 4888 rows and 3 variables
 #'
@@ -10,7 +11,7 @@
 #' The data originally comes in wide format available in `hdi_wide` dataframe
 #'
 #' @source
-#' - [UNDP](http://hdr.undp.org/en/data)
+#' - [United Nations Development Program](http://hdr.undp.org/en/data)
 #'
 #' @md
 

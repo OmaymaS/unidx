@@ -3,8 +3,7 @@
 \docType{data}
 \name{hdi}
 \alias{hdi}
-\title{hdi
-Human Development Index data by UNDP for 188 country from 1990 to 2015.}
+\title{hdi}
 \format{The dataframe \code{hdi} has 4888 rows and 3 variables
 \itemize{
 \item \strong{country}: factor with 188 levels
@@ -12,17 +11,16 @@ Human Development Index data by UNDP for 188 country from 1990 to 2015.}
 \item \strong{human_development_index}: measured index with lower values reflecting lower development
 }
 
-The data originally comes in wide format \code{hdi_wide}}
+The data originally comes in wide format available in \code{hdi_wide} dataframe}
 \source{
 \itemize{
-\item \href{http://hdr.undp.org/en/data}{UNDP}
+\item \href{http://hdr.undp.org/en/data}{United Nations Development Program}
 }
 }
 \usage{
 hdi
 }
 \description{
-hdi
-Human Development Index data by UNDP for 188 country from 1990 to 2015.
+Human Development Index data by the United Nations Development Program(UNDP) for 188 country from 1990 to 2015.
 }
 \keyword{datasets}

@@ -19,7 +19,7 @@
 }}
 \source{
 \itemize{
-\item \href{http://hdr.undp.org/en/data}{UNDP}
+\item \href{http://hdr.undp.org/en/data}{United Nations Development Program}
 \item \href{https://www.transparency.org/cpi2015#downloads}{Transparency.org}
 \item \href{https://docs.google.com/spreadsheet/pub?key=phAwcNAVuyj0XOoBL_n5tAQ&output=xlsx}{Gapminder population data}
 }
@@ -28,6 +28,6 @@
 hdi_cpi_2015
 }
 \description{
-A dataframe combining Human Development Index by UNDP and Corruption Perception Index from Transparency International for 121 countries.
+A dataframe combining Human Development Index by the United Nations Development Program(UNDP) and Corruption Perception Index from Transparency International for 121 countries.
 }
 \keyword{datasets}
